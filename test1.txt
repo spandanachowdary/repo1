@@ -1,0 +1,10 @@
+ Volume in drive C is WIN 7
+ Volume Serial Number is 34F8-3D0E
+
+ Directory of C:\Users\SPANDANA\Desktop\git\Myfolder
+
+01/27/2019  11:22 AM    <DIR>          .
+01/27/2019  11:22 AM    <DIR>          ..
+01/27/2019  11:22 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  57,923,973,120 bytes free
